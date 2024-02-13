@@ -1,13 +1,12 @@
 # Rust Esencial
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Rust Esencial`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-
-DESCRIPCIÓN DEL CURSO
+Descubre las bases de Rust y consigue crear tus propios proyectos en este lenguaje desarrollado por Mozilla y pensado para ser seguro, concurrente y práctico. Al terminar este curso, no solo serás capaz de entender y leer código Rust, con sus tipos, funciones, estructuras de control de flujo, etc., sino que también podrás empezar a programar tus propios programas. No te lo pienses más y adéntrate en el fascinante mundo de Rust.
 
 ## Instrucciones
 

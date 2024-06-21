@@ -12,8 +12,6 @@ Descubre las bases de Rust y consigue crear tus propios proyectos en este lengua
 
 En este repositorio encontrarás un listado de carpetas. Cada carpeta corresponde con una lección dentro del curso, y en su interior encontrarás dos archivos fuente: uno que contiene el código utilizado en el video en su estado inicial (a), y otro que contiene el código en su estado final (b).
 
-Aunque los entornos de desarrollo utilizados en los videos son Visual Studio Code y Rust Playground, debes saber que este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta. Aprende a dar los primeros pasos con el vídeo “Cómo usar GitHub Codespaces con este curso”.
-
 Finalmente, debes saber que cada lección incluye una función principal main, que te permitirá trabajar con cada ejercicio en su estado inicial (a) y en su estado final (b) de manera independiente. A la hora de compilar, asegúrate de hacer uso de una única función main para evitar conflictos en el proceso de compilación.
 
 ### Docente

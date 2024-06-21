@@ -10,19 +10,11 @@ Descubre las bases de Rust y consigue crear tus propios proyectos en este lengua
 
 ## Instrucciones
 
-Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
+En este repositorio encontrarás un listado de carpetas. Cada carpeta corresponde con una lección dentro del curso, y en su interior encontrarás dos archivos fuente: uno que contiene el código utilizado en el video en su estado inicial (a), y otro que contiene el código en su estado final (b).
 
-## Ramas
+Aunque los entornos de desarrollo utilizados en los videos son Visual Studio Code y Rust Playground, debes saber que este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta. Aprende a dar los primeros pasos con el vídeo “Cómo usar GitHub Codespaces con este curso”.
 
-Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. La rama master tiene el estado final del código que aparece en el curso.
-
-## Instalación
-
-1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
-
-2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
+Finalmente, debes saber que cada lección incluye una función principal main, que te permitirá trabajar con cada ejercicio en su estado inicial (a) y en su estado final (b) de manera independiente. A la hora de compilar, asegúrate de hacer uso de una única función main para evitar conflictos en el proceso de compilación.
 
 ### Docente
 
